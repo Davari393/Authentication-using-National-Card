@@ -1,1 +1,2 @@
-# Authentication using ID Card
+# Authentication using ID Card and Webcam
+In order to prevent fraud in online exams or any other online activity where the identity of the person is of the utmost importance, the users are asked to turn on their webcam and take a photo of their ID then upload. The system compares the photo of the persons' ID card with their live image, as well as their ID card information with what they have filled in the relevant fields. Then, if the administrators of that online page wish, the user can be prevented from continuing the activity.
