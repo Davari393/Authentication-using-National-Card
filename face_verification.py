@@ -71,4 +71,3 @@ def verify(image_path):
     dist = np.sum(np.square(diff))
     is_same = dist < 0.7
     print("distance img1 and img2 =", dist, " is+same =", is_same)
-verify("D:/computer vision/kartmeli/kart_meli/1.jpg")
